@@ -44,3 +44,9 @@ console.table( [z, String(z), typeof String(z)]);
 
 // console.log(typeof(2 + true))
 // console.log(typeof(false + true))
+
+//Comparisions
+
+// console.log(typeof("2" == 2))
+
+// console.log(typeof("2" === 2))
